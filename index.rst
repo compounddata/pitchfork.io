@@ -9,13 +9,15 @@ vulnerable to security flaws.
 
 pitchfork.io is under active development and is in private beta.
 
-Please send any queries to pitchfork@pitchfork.io.
+-------------------
+install and sign up
+-------------------
 
--------
-sign up
--------
+To install::
 
-.. code::
+    $ pip install git+https://github.com/compounddata/pitchfork-cli.git
+
+And then to register::
 
     $ pitchfork account register --email=your_email_address@example.org
 
